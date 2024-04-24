@@ -84,5 +84,6 @@ Change names of Guide, HOD and Department
   \end{tabular}\end{center}
 
 
-
-# Template by Mohit Pansare, BE AI&DS, 9391, Batch of 2024.
+# Templated created by Prof. Vaibhav Godbole, Fr. CRCE
+# Final template updatded and improved by Mohit Pansare, BE AI&DS, 9391, Batch of 2024, Fr. CRCE.
+# Last updated on 24/04/2024
